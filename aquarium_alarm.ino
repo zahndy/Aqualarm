@@ -1,5 +1,5 @@
-//    TmonN 
-//    Arduino Thermistor reader
+//    Aqualarm 
+//    Aquarium Temperature Alarm
 //    Copyright (C) <2017>  <Xander Jansen>
 //
 //    This program is free software: you can redistribute it and/or modify
